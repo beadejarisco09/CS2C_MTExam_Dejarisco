@@ -201,13 +201,9 @@ body {
 
 .site-footer {
     background: #f2f2f2;
-    padding: 6px 10px;
-    /* binawasan ang taas at gilid */
     margin-top: 12px;
     font-size: 13px;
-    /* mas maliit na font */
     line-height: 1.2;
-    /* mas dikit ang mga linya */
 }
 
 .footer-inner {
@@ -220,12 +216,10 @@ body {
 
 .footer-info h4 {
     margin: 0;
-    /* alisin extra space */
     font-size: 13px;
     color: #0b6e4f;
 }
 
 .footer-info p {
     margin: 0;
-    /* para hindi lumaki ang height */
 }
